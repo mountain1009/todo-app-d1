@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700479216937,
+      "tag": "0000_fair_elektra",
+      "breakpoints": false
+    }
+  ]
+}

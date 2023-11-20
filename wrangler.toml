@@ -1,0 +1,6 @@
+name = "todo-app"
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "todo"
+database_id = "66fc296d-1802-422f-abef-1b547f9aa955"
